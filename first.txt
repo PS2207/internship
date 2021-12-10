@@ -1,8 +1,17 @@
-1)create folder
-2)open cmd type 'cd location_of_folder' initialize folder by using 'git init' command.
-3)create file in this folder
-4)run 'git status' command to check
-5)run 'git add fileName.extension'(for only one file)/ 'git add .'for(all file)
-6)run'git log' to check commit
-7)run 'git commit -m "message"'
+To create repository go to new on github & create a Repository with the same name as local folder name.
+
+Now Open cmd inside the folder & run these commands:-
+1)git init
+2)git add .
+3)git commit -m "first commit"
+4)git branch -M main
+5)git remote add origin https://github.com/PS2207/internship.giti.e(Repositoryname.git)
+6)git push -u origin main
+
+whenever we commit in a file & if we want to push that file on git hub
+we run these three commands on terminal:-
+1)git commmit -m "commit message"
+2)git branch -M main
+3)git push -u origin main
+
  
