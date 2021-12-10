@@ -1,0 +1,8 @@
+1)create folder
+2)open cmd type 'cd location_of_folder' initialize folder by using 'git init' command.
+3)create file in this folder
+4)run 'git status' command to check
+5)run 'git add fileName.extension'(for only one file)/ 'git add .'for(all file)
+6)run'git log' to check commit
+7)run 'git commit -m "message"'
+ 
