@@ -1,11 +1,11 @@
 import React from 'react'
 
-function footer() {
+function Footer() {
     return (
         <div className="footerStyle">
-           <h1>copyRight@ yuktisoftware</h1> 
+            <h6>Copyright @ 2021 Yukti Software Designed by Wit Source Technology</h6>
         </div>
     )
 }
 
-export default footer
+export default Footer;
